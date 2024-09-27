@@ -1,0 +1,3 @@
+T-Test Results for Age and Grip Strength:
+   Statistic  P-value
+0   1.111166  0.30903
